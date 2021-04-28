@@ -12,8 +12,6 @@ namespace Project1
 
             Console.WriteLine("[" + DateTime.Now + "] " + "Hello, " + userName + "!");
         }
-        
-         
-        }
     }
+}
 
